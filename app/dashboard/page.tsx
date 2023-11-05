@@ -99,7 +99,7 @@ export default function Page() {
                             </div>
                         </div>
                         <div className="bg-white dark:bg-gray-800 rounded-xl p-4 shadow-md">
-                            <h2 className="text-xl font-bold text-gray-900 dark:text-gray-100">User's Address Holdings</h2>
+                            <h2 className="text-xl font-bold text-gray-900 dark:text-gray-100">Users Address Holdings</h2>
                             <div className="mt-4 space-y-2 overflow-auto">
                                 <div className="flex justify-between">
                                     <p className="text-gray-700 dark:text-gray-200">Token</p>
